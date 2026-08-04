@@ -15,7 +15,7 @@ const CATALOGO = [
     nome: "Incensários",
     eyebrow: "Base & Fumaça",
     descricao:
-      "Peças pintadas à mão, ponto a ponto, para acender vareta e criar seu altar particular.",
+      "Peças pintadas à mão, ponto a ponto, para acender incenso e criar seu altar particular.",
     grupos: [
       {
         id: "incensario-mandala",
@@ -24,21 +24,21 @@ const CATALOGO = [
           {
             id: "inc-mandala-01",
             nome: "Incensário Mandala Arco-Íris",
-            imagem: "assets/images/incensarios/mandala-01.jpg",
+            imagem: "assets/mandala1.png",
             descricao:
               "Pétalas em pontilhismo multicolorido sobre base preta — energia e movimento em cada camada de cor.",
           },
           {
             id: "inc-mandala-02",
             nome: "Incensário Mandala Chakras",
-            imagem: "assets/images/incensarios/mandala-02.jpg",
+            imagem: "assets/mandala2.png",
             descricao:
               "Sete pétalas nas cores dos chakras, unidas ao centro — equilíbrio para o ambiente de meditação.",
           },
           {
             id: "inc-mandala-03",
             nome: "Incensário Mandala Dourada",
-            imagem: "assets/images/incensarios/mandala-03.jpg",
+            imagem: "assets/mandala3.png",
             descricao:
               "Traços dourados sobre pontilhismo em tons de terra — um toque solar para compor seu cantinho.",
           },
@@ -51,21 +51,21 @@ const CATALOGO = [
           {
             id: "inc-olho-01",
             nome: "Incensário Olho Grego Dourado",
-            imagem: "assets/images/incensarios/olho-grego-01.jpg",
+            imagem: "assets/olho-grego-01.png",
             descricao:
               "Olhos protetores em azul profundo emoldurados em dourado — proteção e boas energias para a casa.",
           },
           {
             id: "inc-olho-02",
             nome: "Incensário Olho Grego Azul Royal",
-            imagem: "assets/images/incensarios/olho-grego-02.jpg",
+            imagem: "assets/olho-grego-02.png",
             descricao:
               "Círculos concêntricos em degradê de azul — o clássico amuleto grego em formato de pontilhismo.",
           },
           {
             id: "inc-olho-03",
             nome: "Incensário Olho Grego Noite",
-            imagem: "assets/images/incensarios/olho-grego-03.jpg",
+            imagem: "assets/olho-grego-03.png",
             descricao:
               "Fundo preto profundo com pétalas em azul turquesa — elegância e proteção lado a lado.",
           },
@@ -78,21 +78,21 @@ const CATALOGO = [
           {
             id: "inc-rel-01",
             nome: "Incensário Ervas & Elementos",
-            imagem: "assets/images/incensarios/religioso-01.jpg",
+            imagem: "assets/religioso-01.png",
             descricao:
               "Pontilhismo em tons de verde com símbolos de ervas ao centro — voltado a rituais de limpeza e cura.",
           },
           {
             id: "inc-rel-02",
             nome: "Incensário Pé de Anjo",
-            imagem: "assets/images/incensarios/religioso-02.jpg",
+            imagem: "assets/religioso-02.png",
             descricao:
               "Detalhe de pegada pintado à mão sobre fundo violeta — fé e delicadeza em cada ponto.",
           },
           {
             id: "inc-rel-03",
             nome: "Incensário Iemanjá",
-            imagem: "assets/images/incensarios/religioso-03.jpg",
+            imagem: "assets/religioso-03.png",
             descricao:
               "Ondas em azul e prata com estrela-do-mar — uma homenagem às águas e à Rainha do Mar.",
           },
