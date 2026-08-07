@@ -98,6 +98,88 @@ const CATALOGO = [
           },
         ],
       },
+      {
+        id: "incensario-cimento",
+        nome: "Cimento",
+        produtos: [
+          {
+            id: "inc-cimento-01",
+            nome: "Incensário Hamsá Ritual",
+            imagem: "assets/cimento-01.png",
+            descricao:
+              "Mão de Hamsá entalhada em madeira, com mandala em azul e branco ao fundo — proteção e boas energias em composição de altar.",
+          },
+          {
+            id: "inc-cimento-02",
+            nome: "Incensário Hamsá Lilás",
+            imagem: "assets/cimento-02.png",
+            descricao:
+              "Peça em cimento no formato de mão de Hamsá, pintada em lilás com detalhes em relevo — proteção com um toque delicado de cor.",
+          },
+          {
+            id: "inc-cimento-03",
+            nome: "Incensário Hamsá Dourada",
+            imagem: "assets/cimento-03.png",
+            descricao:
+              "A mesma Hamsá em acabamento dourado espelhado — símbolo de proteção com presença luxuosa sobre qualquer superfície.",
+          },
+        ],
+      },
+      {
+        id: "incensario-horizontal",
+        nome: "Horizontal",
+        produtos: [
+          {
+            id: "inc-horiz-01",
+            nome: "Incensário Horizontal Om",
+            imagem: "assets/horizontal-01.png",
+            descricao:
+              "Régua em madeira com pontilhismo laranja e símbolo Om entalhado nas pontas — formato clássico para varetas longas.",
+          },
+          {
+            id: "inc-horiz-02",
+            nome: "Incensário Horizontal Olhos Protetores",
+            imagem: "assets/horizontal-02.png",
+            descricao:
+              "Base alongada em madeira com olhos gregos pontilhados em azul e branco — proteção discreta para o dia a dia.",
+          },
+          {
+            id: "inc-horiz-03",
+            nome: "Incensário Horizontal Coleção Elementos",
+            imagem: "assets/horizontal-03.png",
+            descricao:
+              "Linha de réguas pintadas à mão com temas variados — mandala colorida, corações, raios e folhagem — escolha o seu elemento.",
+          },
+        ],
+      },
+      {
+        id: "incensario-cigano",
+        nome: "Cigano",
+        produtos: [
+          {
+            id: "inc-cigano-01",
+            nome: "Incensário Cigano Flor Dourada",
+            imagem: "assets/cigano-01.png",
+            descricao:
+              "Base redonda dourada com flor em pétalas azuis e verdes, rosas pintadas à mão e franjas coloridas — o clássico amuleto cigano da sorte.",
+          },
+          {
+            id: "inc-cigano-02",
+            nome: "Incensário Cigano Franjas da Fortuna",
+            imagem: "assets/cigano-02.png",
+            descricao:
+              "Vista frontal do disco dourado com florzinha central e fitas multicoloridas — traz o colorido e a energia cigana para o altar.",
+          },
+          {
+            id: "inc-cigano-03",
+            nome: "Incensário Cigano Luz do Sol",
+            imagem: "assets/cigano-03.png",
+            descricao:
+              "Mesma peça em pontilhismo dourado, flores e franjas — aqui à luz natural, realçando o brilho metálico da pintura.",
+          },
+        ],
+      },
     ],
   },
 ];
+
