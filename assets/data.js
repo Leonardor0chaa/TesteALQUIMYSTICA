@@ -181,5 +181,157 @@ const CATALOGO = [
       },
     ],
   },
+  {
+    id: "madalas",
+    nome: "Madalas 15cm x 3mm",
+    eyebrow: "Mandalas para decoração",
+    descricao:
+      "Peças pintadas à mão, ponto a ponto, para acender incenso e criar seu altar particular.",
+    grupos: [
+      {
+        id: "mandalas",
+        nome: "Reiki",
+        produtos: [
+          {
+            id: "mand-reiki-01",
+            nome: "Mandala Reiki DaikoMio",
+            imagem: "assets/reiki-01.png",
+            descricao:
+              "Pétalas em pontilhismo multicolorido sobre base preta — energia e movimento em cada camada de cor.",
+          },
+          {
+            id: "mand-reiki-02",
+            nome: "Mandala Reiki SeiHeki",
+            imagem: "assets/reiki-02.png",
+            descricao:
+              "Sete pétalas nas cores dos chakras, unidas ao centro — equilíbrio para o ambiente de meditação.",
+          },
+          {
+            id: "mand-reiki-03",
+            nome: "Mandala Reiki ChoKuRei",
+            imagem: "assets/reiki-03.png",
+            descricao:
+              "Traços dourados sobre pontilhismo em tons de terra — um toque solar para compor seu cantinho.",
+          },
+        ],
+      },
+      {
+        id: "mandalas-trio",
+        nome: "Trio Mandalas",
+        produtos: [
+          {
+            id: "mand-trio-01",
+            nome: "Trio Mandalas Reiki",
+            imagem: "assets/trio-01.png",
+            descricao:
+              "Olhos protetores em azul profundo emoldurados em dourado — proteção e boas energias para a casa.",
+          },
+          {
+            id: "mand-trio-02",
+            nome: "Trio Mandalas Nossa Senhora Aparecida",
+            imagem: "assets/trio-02.png",
+            descricao:
+              "Círculos concêntricos em degradê de azul — o clássico amuleto grego em formato de pontilhismo.",
+          },
+          {
+            id: "mand-trio-03",
+            nome: "Trio Mandalas Olho Grego",
+            imagem: "assets/trio-03.png",
+            descricao:
+              "Fundo preto profundo com pétalas em azul turquesa — elegância e proteção lado a lado.",
+          },
+        ],
+      },
+      {
+        id: "mandalas-outras",
+        nome: "Mandalas Diversas",
+        produtos: [
+          {
+            id: "mand-div-01",
+            nome: "Mandala Mão de Hamsá com Olho Grego",
+            imagem: "assets/diversas-01.png",
+            descricao:
+              "Fundo preto profundo com mão de Hamsá e olho grego — elegância e proteção lado a lado.",
+          },
+          {
+            id: "mand-div-02",
+            nome: "Mandala Flor de Lótus",
+            imagem: "assets/diversas-02.png",
+            descricao:
+              "Pontilhismo em tons de roxo com formato de flor de lótus — paz e delicadeza em cada ponto.",
+          },
+          {
+            id: "mand-div-03",
+            nome: "Mandala Arvore da Vida",
+            imagem: "assets/diversas-03.png",
+            descricao:
+              "Arvores da vida em pontilhismo verde e marrom com borda laranja — símbolo de crescimento e conexão com a natureza.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: "madalas-maiores",
+    nome: "Madalas 30cm x 3mm",
+    eyebrow: "Mandalas para decoração",
+    descricao:
+      "Peças pintadas à mão, ponto a ponto, para acender incenso e criar seu altar particular.",
+    grupos: [
+      {
+        id: "mandalas-nossa-senhora-aparecida",
+        nome: " Nossa Senhora Aparecida",
+        produtos: [
+          {
+            id: "mand-nossa-01",
+            nome: "Mandala Nossa Senhora Aparecida",
+            imagem: "assets/nossa-01.png",
+            descricao:
+              "Círculos concêntricos em degradê de azul — o clássico amuleto grego em formato de pontilhismo.",
+          },
+          {
+            id: "mand-nossa-02",
+            nome: "Mandala Nossa Senhora Aparecida",
+            imagem: "assets/nossa-02.png",
+            descricao:
+              "Círculos concêntricos em degradê de azul — o clássico amuleto grego em formato de pontilhismo.",
+          },
+          {
+            id: "mand-nossa-03",
+            nome: "Mandala Nossa Senhora Aparecida",
+            imagem: "assets/nossa-03.png",
+            descricao:
+              "Círculos concêntricos em degradê de azul — o clássico amuleto grego em formato de pontilhismo.",
+          },
+        ],
+      },
+      {
+        id: "mandalas-culturas",
+        nome: "Mandalas de Culturas",
+        produtos: [
+          {
+            id: "mand-cul-01",
+            nome: "Mandala Flor",
+            imagem: "assets/culturas-01.png",
+            descricao:
+              "Pontilhismo em tons de azul com formato de flor — delicadeza e harmonia em cada ponto.",
+          },
+          {
+            id: "mand-cul-02",
+            nome: "Mandala Iemanja (com areia da praia)",
+            imagem: "assets/culturas-02.png",
+            descricao:
+              "Pontilhismo em tons de azul com formato de Iemanja — delicadeza e harmonia em cada ponto, com areia da praia para trazer a energia do mar.",
+          },
+          {
+            id: "mand-cul-03",
+            nome: "Mandala Oxum",
+            imagem: "assets/culturas-03.png",
+            descricao:
+              "Pontilhismo em tons de amarelo com formato de Oxum — força e fertilidade em cada ponto.",
+          },
+        ],
+      },
+    ],
+  },
 ];
-
